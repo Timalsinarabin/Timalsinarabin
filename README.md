@@ -3,6 +3,10 @@
 🎓 **BSc CSIT Student | Aspiring AI/ML & Software Developer**  
 📍 Banepa, Kavre, Nepal
 
+🔗 [Check Portfolio](https://timalsinarabin.github.io/Portfolio/)
+
+
+
 I'm a Computer Science student passionate about building practical software and exploring how AI can solve real-world problems. I enjoy learning by building projects, experimenting with machine learning models, and developing web applications.
 
 I'm currently exploring the integration of **AI/ML with web development**, combining my interests in Python, NLP, computer vision, and Ruby on Rails.
