@@ -72,11 +72,7 @@ Hands-on experiments in natural language processing, text classification, and co
 - Integrating trained AI/ML models into web applications.
 - Model evaluation, experimentation, and deployment.
 
-## 📊 GitHub Stats
 
-![Rabin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Timalsinarabin&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Timalsinarabin&layout=compact&theme=tokyonight&hide=jupyter%20notebook)
 
 ## 📫 Connect With Me
 
